@@ -6,7 +6,18 @@
     <description>Recent content on My New Hugo Site</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 13 Jul 2022 16:08:30 +0800</lastBuildDate><atom:link href="http://ideapply.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Jul 2022 16:24:56 +0800</lastBuildDate><atom:link href="http://ideapply.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Shortcut</title>
+      <link>http://ideapply.github.io/posts/shortcut/</link>
+      <pubDate>Wed, 13 Jul 2022 16:24:56 +0800</pubDate>
+      
+      <guid>http://ideapply.github.io/posts/shortcut/</guid>
+      <description>快捷键 Win平台
+飞书快捷键：Ctrl+Option+F 微信快捷键：Ctrl+Option+W Listary快捷键：双击Ctrl Roam Roam调出Zotero：Option+Q Roam调出搜索框：Ctrl + U Roam调出Command框：Ctrl + P 系统截图快捷键：Command + Shift + S MAC平台
+调用SlidePad：Ctrl+Option+S 调用GhostNote：Ctrl+Option+O Xnip截图快捷键：Command + Shift + X Alfred工作流 Hook工作流 Ctrl + H 呼出Hook菜单 Command双击 呼出Alfred菜单 -&amp;gt; hm + 内容 搜索已有Hook链接 SnippetsLab工作流 Command双击 呼出Alfred菜单 -&amp;gt; snippet + 内容 搜索已有snippet Div工作流 Command双击 呼出Alfred菜单 -&amp;gt; div 搜索现有布局 Dash工作流 Command双击 呼出Alfred菜单 -&amp;gt; dash + 内容 搜索API说明文档 最近访问文件 Command双击 呼出Alfred菜单 -&amp;gt; rdn 搜索最近修改/rdo 搜索往期修改/rda 搜索最近添加/rdz 搜索往期添加 呼出Alfred偏好设置 Command+ , 呼出Alfred菜单 Alfred剪贴板历史 Option+ Command + C 呼出剪贴板历史 </description>
+    </item>
+    
     <item>
       <title>Covid 19</title>
       <link>http://ideapply.github.io/posts/covid-19/</link>
