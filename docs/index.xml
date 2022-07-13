@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>http://ideapply.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Jul 2022 15:13:16 +0800</lastBuildDate><atom:link href="http://ideapply.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://ideapply.github.io/posts/my-first-post/</link>
+      <pubDate>Wed, 13 Jul 2022 15:13:16 +0800</pubDate>
+      
+      <guid>http://ideapply.github.io/posts/my-first-post/</guid>
+      <description>Hello World </description>
+    </item>
+    
+    <item>
+      <title>Test</title>
+      <link>http://ideapply.github.io/posts/test/</link>
+      <pubDate>Sat, 23 Apr 2022 17:00:52 +0800</pubDate>
+      
+      <guid>http://ideapply.github.io/posts/test/</guid>
+      <description>==文本编辑状态：== #TODO
+虽然再大的震撼，都会随着时间以 $Ae^{-\alpha t}$ 的形式被抚平。但人生的意义，不就是由时域中一个个的冲激串构造出来的吗？
+Tags： #软件
+前期资料收集 [[软件]] ==软件特点：== 无压记录是flomo的特点（形），他的会员功能是微信语音录入和微信回顾（神）。 ==相似软件：== [[Obsidian]] ==相关软件：== [[微信]] [[Notion]]
+[[Obsidian]]本地Flomo ![[c061027d9387bce2a253df56b2781f2.png|500]]</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>http://ideapply.github.io/posts/obsidian%E8%AF%AD%E6%B3%95/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://ideapply.github.io/posts/obsidian%E8%AF%AD%E6%B3%95/</guid>
+      <description>[[Obsidian]] 是一个基于 Markdown 进行记录的知识库软件。
+目前 Obsidian 支持的格式如下：
+内部链接 通过[[]]来链接库中任意一个文件。
+链接一篇笔记：[[内部链接]]。 链接一篇笔记：[[内部链接]]。
+嵌入文件 在笔记中插入其他文件（更多细节请阅读[[嵌入文件]]）。这里将演示如何插入一篇笔记的某个章节：
+![[Obsidian#什么是 Obsidian]] ![[Obsidian语法#什么是 Obsidian]]
+小标题 # 这是小标题 1 ## 这是小标题 2 ### 这是小标题 3 #### 这是小标题 4 ##### 这是小标题 5 ###### 这是小标题 6 这是小标题 1 这是小标题 2 这是小标题 3 这是小标题 4 这是小标题 5 这是小标题 6 强调 *这是斜体示例* _这是斜体的另一种写法_ 这是斜体示例 这是斜体的另一种写法
+**这是粗体示例** __这是粗体的另一种写法__ 这是粗体示例 这是粗体的另一种写法
+_你也**可以**将它们配合使用_ 你也可以将它们配合使用
+列表 - 项目 1 - 项目 2 - 项目 2a - 项目 2b 1.</description>
+    </item>
+    
+  </channel>
+</rss>
