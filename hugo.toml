@@ -2,4 +2,3 @@ baseURL = 'http://ideapply.github.io/public'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "ananke"
-publishDir = "docs"
