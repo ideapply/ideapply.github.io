@@ -4,13 +4,13 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">云端小站</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2024-07-24T23:03:45&#43;08:00</updated>
-    <id>http://localhost:1313/</id>
-    <link rel="alternate" type="text/html" href="http://localhost:1313/" />
-    <link rel="self" type="application/atom&#43;xml" href="http://localhost:1313/atom.xml" />
+    <updated>2024-07-24T23:16:50&#43;08:00</updated>
+    <id>https://ideapply.github.io/</id>
+    <link rel="alternate" type="text/html" href="https://ideapply.github.io/" />
+    <link rel="self" type="application/atom&#43;xml" href="https://ideapply.github.io/atom.xml" />
     <author>
             <name>ideapply</name>
-            <uri>http://localhost:1313/</uri>
+            <uri>https://ideapply.github.io/</uri>
             
                 <email>yksosky@gmail.com</email>
             </author>
@@ -18,8 +18,8 @@
     <generator uri="https://gohugo.io/" version="0.129.0">Hugo</generator>
         <entry>
             <title type="text">First Post</title>
-            <link rel="alternate" type="text/html" href="http://localhost:1313/posts/first-post/" />
-            <id>http://localhost:1313/posts/first-post/</id>
+            <link rel="alternate" type="text/html" href="https://ideapply.github.io/posts/first-post/" />
+            <id>https://ideapply.github.io/posts/first-post/</id>
             <updated>2024-07-24T17:31:02&#43;08:00</updated>
             <published>2024-07-24T17:30:04&#43;08:00</published>
             <author>
@@ -46,8 +46,8 @@
     
         <entry>
             <title type="text">History</title>
-            <link rel="alternate" type="text/html" href="http://localhost:1313/posts/history/" />
-            <id>http://localhost:1313/posts/history/</id>
+            <link rel="alternate" type="text/html" href="https://ideapply.github.io/posts/history/" />
+            <id>https://ideapply.github.io/posts/history/</id>
             <updated>2022-07-13T22:01:40&#43;08:00</updated>
             <published>2022-07-13T18:12:53&#43;08:00</published>
             <author>
@@ -521,8 +521,8 @@
     
         <entry>
             <title type="text">Shortcut</title>
-            <link rel="alternate" type="text/html" href="http://localhost:1313/posts/shortcut/" />
-            <id>http://localhost:1313/posts/shortcut/</id>
+            <link rel="alternate" type="text/html" href="https://ideapply.github.io/posts/shortcut/" />
+            <id>https://ideapply.github.io/posts/shortcut/</id>
             <updated>2022-07-13T22:01:40&#43;08:00</updated>
             <published>2022-07-13T16:24:56&#43;08:00</published>
             <author>
@@ -616,8 +616,8 @@
     
         <entry>
             <title type="text">My First Post</title>
-            <link rel="alternate" type="text/html" href="http://localhost:1313/posts/my-first-post/" />
-            <id>http://localhost:1313/posts/my-first-post/</id>
+            <link rel="alternate" type="text/html" href="https://ideapply.github.io/posts/my-first-post/" />
+            <id>https://ideapply.github.io/posts/my-first-post/</id>
             <updated>2022-07-13T22:01:40&#43;08:00</updated>
             <published>2022-07-13T15:13:16&#43;08:00</published>
             <author>
@@ -644,8 +644,8 @@
     
         <entry>
             <title type="text">Grammar</title>
-            <link rel="alternate" type="text/html" href="http://localhost:1313/posts/grammar/" />
-            <id>http://localhost:1313/posts/grammar/</id>
+            <link rel="alternate" type="text/html" href="https://ideapply.github.io/posts/grammar/" />
+            <id>https://ideapply.github.io/posts/grammar/</id>
             <updated>2022-07-13T22:01:40&#43;08:00</updated>
             <published>2022-04-23T20:18:48&#43;08:00</published>
             <author>
@@ -1042,7 +1042,7 @@ function fancyAlert(arg) {
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-md&#34; data-lang=&#34;md&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;H脚注的用法很简单，只需要在段落中需要插入脚注的地方标注一个符号，再在段落后对这个符号进行解释即可。比如这是一个简单的脚注，[^1] 这是一个长一些的脚注。[^长脚注][^1]: 很有用！[^长脚注]: 这是一个可以写长段落或者代码的地方。		你可以使用缩进在脚注中纳入其他段落。		&lt;span class=&#34;sb&#34;&gt;`{ 代码 }`&lt;/span&gt;	这样你就可以在脚注中添加任意数量的段落了。
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;脚注的用法很简单，只需要在段落中需要插入脚注的地方标注一个符号，再在段落后对这个符号进行解释即可。比如这是一个简单的脚注，&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/grammar/#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; 这是一个长一些的脚注。&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/grammar/#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;脚注的用法很简单，只需要在段落中需要插入脚注的地方标注一个符号，再在段落后对这个符号进行解释即可。比如这是一个简单的脚注，&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;https://ideapply.github.io/posts/grammar/#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; 这是一个长一些的脚注。&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;https://ideapply.github.io/posts/grammar/#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;p&gt;你也可以使用行内脚注。^[请注意符号^需要在方括号外]&lt;/p&gt;
 &lt;h3 id=&#34;数学公式&#34;&gt;数学公式&lt;/h3&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -1095,11 +1095,11 @@ sequenceDiagram
 &lt;hr&gt;
 &lt;ol&gt;
 &lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;很有用！&amp;#160;&lt;a href=&#34;http://localhost:1313/posts/grammar/#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;很有用！&amp;#160;&lt;a href=&#34;https://ideapply.github.io/posts/grammar/#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id=&#34;fn:2&#34;&gt;
 &lt;p&gt;这是一个可以写长段落或者代码的地方。&lt;/p&gt;
-&lt;p&gt;你可以使用缩进在脚注中纳入其他段落。&lt;code&gt;{ 代码 }&lt;/code&gt;这样你就可以在脚注中添加任意数量的段落了。&amp;#160;&lt;a href=&#34;http://localhost:1313/posts/grammar/#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;你可以使用缩进在脚注中纳入其他段落。&lt;code&gt;{ 代码 }&lt;/code&gt;这样你就可以在脚注中添加任意数量的段落了。&amp;#160;&lt;a href=&#34;https://ideapply.github.io/posts/grammar/#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
@@ -1119,8 +1119,8 @@ sequenceDiagram
     
         <entry>
             <title type="text">Test</title>
-            <link rel="alternate" type="text/html" href="http://localhost:1313/posts/test/" />
-            <id>http://localhost:1313/posts/test/</id>
+            <link rel="alternate" type="text/html" href="https://ideapply.github.io/posts/test/" />
+            <id>https://ideapply.github.io/posts/test/</id>
             <updated>2022-07-13T22:01:40&#43;08:00</updated>
             <published>2022-04-23T17:00:52&#43;08:00</published>
             <author>
@@ -1158,8 +1158,8 @@ sequenceDiagram
     
         <entry>
             <title type="text"></title>
-            <link rel="alternate" type="text/html" href="http://localhost:1313/posts/obsidian%E8%AF%AD%E6%B3%95/" />
-            <id>http://localhost:1313/posts/obsidian%E8%AF%AD%E6%B3%95/</id>
+            <link rel="alternate" type="text/html" href="https://ideapply.github.io/posts/obsidian%E8%AF%AD%E6%B3%95/" />
+            <id>https://ideapply.github.io/posts/obsidian%E8%AF%AD%E6%B3%95/</id>
             <updated>2022-07-13T22:01:40&#43;08:00</updated>
             <published>0001-01-01T00:00:00&#43;00:00</published>
             <author>
@@ -1608,7 +1608,7 @@ function fancyAlert(arg) {
 &lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;	这样你就可以在脚注中添加任意数量的段落了。
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;p&gt;脚注的用法很简单，只需要在段落中需要插入脚注的地方标注一个符号，再在段落后对这个符号进行解释即可。比如这是一个简单的脚注，&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/obsidian%E8%AF%AD%E6%B3%95/#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; 这是一个长一些的脚注。&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;http://localhost:1313/posts/obsidian%E8%AF%AD%E6%B3%95/#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/div&gt;&lt;p&gt;脚注的用法很简单，只需要在段落中需要插入脚注的地方标注一个符号，再在段落后对这个符号进行解释即可。比如这是一个简单的脚注，&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;https://ideapply.github.io/posts/obsidian%E8%AF%AD%E6%B3%95/#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt; 这是一个长一些的脚注。&lt;sup id=&#34;fnref:2&#34;&gt;&lt;a href=&#34;https://ideapply.github.io/posts/obsidian%E8%AF%AD%E6%B3%95/#fn:2&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
 &lt;p&gt;你也可以使用行内脚注。^[请注意符号^需要在方括号外]&lt;/p&gt;
 &lt;h3 id=&#34;数学公式&#34;&gt;数学公式&lt;/h3&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
@@ -1677,13 +1677,13 @@ sequenceDiagram
 &lt;hr&gt;
 &lt;ol&gt;
 &lt;li id=&#34;fn:1&#34;&gt;
-&lt;p&gt;很有用！&amp;#160;&lt;a href=&#34;http://localhost:1313/posts/obsidian%E8%AF%AD%E6%B3%95/#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;很有用！&amp;#160;&lt;a href=&#34;https://ideapply.github.io/posts/obsidian%E8%AF%AD%E6%B3%95/#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li id=&#34;fn:2&#34;&gt;
 &lt;p&gt;这是一个可以写长段落或者代码的地方。&lt;/p&gt;
 &lt;p&gt;你可以使用缩进在脚注中纳入其他段落。&lt;/p&gt;
 &lt;p&gt;&lt;code&gt;{ 代码 }&lt;/code&gt;&lt;/p&gt;
-&lt;p&gt;这样你就可以在脚注中添加任意数量的段落了。&amp;#160;&lt;a href=&#34;http://localhost:1313/posts/obsidian%E8%AF%AD%E6%B3%95/#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;这样你就可以在脚注中添加任意数量的段落了。&amp;#160;&lt;a href=&#34;https://ideapply.github.io/posts/obsidian%E8%AF%AD%E6%B3%95/#fnref:2&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;/ol&gt;
 &lt;/div&gt;
