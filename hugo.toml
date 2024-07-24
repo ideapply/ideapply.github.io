@@ -1,4 +1,4 @@
-baseURL = 'http://ideapply.github.io/public'
+baseURL = 'http://ideapply.github.io/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = "ananke"

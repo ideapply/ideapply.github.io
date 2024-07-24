@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on My New Hugo Site</title>
-    <link>http://ideapply.github.io/public/posts/</link>
+    <link>http://ideapply.github.io/posts/</link>
     <description>Recent content in Posts on My New Hugo Site</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 24 Jul 2024 17:30:04 +0800</lastBuildDate>
-    <atom:link href="http://ideapply.github.io/public/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://ideapply.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>First Post</title>
-      <link>http://ideapply.github.io/public/posts/first-post/</link>
+      <link>http://ideapply.github.io/posts/first-post/</link>
       <pubDate>Wed, 24 Jul 2024 17:30:04 +0800</pubDate>
-      <guid>http://ideapply.github.io/public/posts/first-post/</guid>
+      <guid>http://ideapply.github.io/posts/first-post/</guid>
       <description>Hello World </description>
     </item>
   </channel>
