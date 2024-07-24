@@ -23,10 +23,178 @@
         
             <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
         
-        <lastBuildDate>Wed, 24 Jul 2024 23:47:44 &#43;0800</lastBuildDate>
+        <lastBuildDate>Wed, 24 Jul 2024 23:59:39 &#43;0800</lastBuildDate>
         
             <atom:link rel="self" type="application/rss&#43;xml" href="http://localhost:1313/rss.xml" />
         
+        
+            <item>
+                <title>装机必备软件推荐</title>
+                <link>http://localhost:1313/posts/%E8%A3%85%E6%9C%BA%E5%BF%85%E5%A4%87%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/</link>
+                <guid isPermaLink="true">http://localhost:1313/posts/%E8%A3%85%E6%9C%BA%E5%BF%85%E5%A4%87%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/</guid>
+                <pubDate>Wed, 24 Jul 2024 23:58:52 &#43;0800</pubDate>
+                
+                    <author>yksosky@gmail.com (ideapply)</author>
+                
+                <copyright>[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)</copyright>
+                
+                    <description>&lt;blockquote&gt;
+&lt;p&gt;装机必备软件汇总页面。&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;[[Inbox]]&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;em&gt;意见与建议区&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;视频播放器&#34;&gt;视频播放器&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;#Windows
+&lt;ul&gt;
+&lt;li&gt;Potplayer：Windows平台最好用的免费视频播放器。 -&amp;gt; &lt;a href=&#34;https://potplayer.daum.net&#34;&gt;官网&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;#macOS
+&lt;ul&gt;
+&lt;li&gt;IINA：macOS平台最好用的免费开源视频播放器。 -&amp;gt; &lt;a href=&#34;https://github.com/iina/iina&#34;&gt;iina/iina&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Infuse：macOS平台综合性能最好的付费多媒体播放器。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;pdf编辑浏览器&#34;&gt;PDF编辑浏览器&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;#Windows
+&lt;ul&gt;
+&lt;li&gt;Adobe Acrobat：Windows平台老牌的跨平台付费PDF编辑器。&lt;/li&gt;
+&lt;li&gt;福昕高级PDF编辑器：Windows平台体验较好的跨平台付费PDF编辑器。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;#macOS
+&lt;ul&gt;
+&lt;li&gt;PDF Expert：macOS平台综合体验最好的付费PDF编辑器。&lt;/li&gt;
+&lt;li&gt;Skim：macOS平台扩展性最好的免费PDF浏览器。 -&amp;gt; &lt;a href=&#34;https://skim-app.sourceforge.io&#34;&gt;官网&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;图片浏览器&#34;&gt;图片浏览器&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;#Windows
+&lt;ul&gt;
+&lt;li&gt;ACDSee：Window平台老牌的付费图片浏览工具。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;#macOS
+&lt;ul&gt;
+&lt;li&gt;Lyn：macOS平台体验较好的付费图片浏览工具。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;音乐播放器&#34;&gt;音乐播放器&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;#Windows
+&lt;ul&gt;
+&lt;li&gt;foobar2000：Windows平台最为推荐的免费本地Hi-Fi播放器。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;#macOS&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;解压缩工具&#34;&gt;解压缩工具&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;#Windows
+&lt;ul&gt;
+&lt;li&gt;WinRAR：Windows平台老牌的付费解压缩软件。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;#macOS
+&lt;ul&gt;
+&lt;li&gt;BetterZip：macOS平台较为有名的付费解压缩软件。 （部分中文解压缩会出现乱码）&lt;/li&gt;
+&lt;li&gt;Keka：macOS平台免费解压缩软件。 -&amp;gt; &lt;a href=&#34;https://github.com/aonez/Keka&#34;&gt;aonez/Keka&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;下载工具&#34;&gt;下载工具&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;#Windows
+&lt;ul&gt;
+&lt;li&gt;IDM ：Windows平台的优秀付费下载工具。&lt;/li&gt;
+&lt;li&gt;utorrent ：Windows平台的常用P2P下载工具。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;#macOS
+&lt;ul&gt;
+&lt;li&gt;Downie：macOS平台的优秀付费下载工具。&lt;/li&gt;
+&lt;li&gt;Transmission：macOS平台的常用跨平台免费开源P2P下载工具。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;科学上网工具&#34;&gt;科学上网工具&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;#Windows&lt;/li&gt;
+&lt;li&gt;#macOS
+&lt;ul&gt;
+&lt;li&gt;Surge：macOS平台综合体验最好的付费科学上网工具。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;截图工具&#34;&gt;截图工具&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;#Windows
+&lt;ul&gt;
+&lt;li&gt;Snipaste：Windows平台体验还行的跨平台付费截图工具。 -&amp;gt; &lt;a href=&#34;https://www.snipaste.com&#34;&gt;官网&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;#macOS
+&lt;ul&gt;
+&lt;li&gt;Xnip：macOS平台体验还行的付费截图工具。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;笔记软件&#34;&gt;笔记软件&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;#Windows #macOS
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;%5B%5BW/S/roam%5D%5D&#34;&gt;Roam Research&lt;/a&gt;：用户体验最稳定的跨平台付费云端双链笔记软件。&lt;/li&gt;
+&lt;li&gt;Notion：大众认可度最高的跨平台云端笔记软件。&lt;/li&gt;
+&lt;li&gt;Obsidian：大众认可度最高的跨平台免费本地笔记软件。&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;%5B%5BW/S/emacs%5D%5D&#34;&gt;Emacs/org-roam&lt;/a&gt;：对程序员最友好的跨平台免费本地笔记软件。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;文档库管理软件&#34;&gt;文档库管理软件&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;#Windows #macOS
+&lt;ul&gt;
+&lt;li&gt;Eagle：较为有名的跨平台图片苦管理软件。&lt;/li&gt;
+&lt;li&gt;Zotero：知名的跨平台文献库管理软件。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;li&gt;#macOS
+&lt;ul&gt;
+&lt;li&gt;DEVONthink：macOS平台有名的综合性文件库管理软件。&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;文档处理工具&#34;&gt;文档处理工具&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;#Windows #macOS
+&lt;ul&gt;
+&lt;li&gt;Word：大众认可度最高的付费文档编辑器&lt;/li&gt;
+&lt;li&gt;Overleaf：大众认可度最高的付费在线LaTeX编辑器 -&amp;gt; &lt;a href=&#34;https://github.com/overleaf/overleaf&#34;&gt;overleaf/overleaf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;Typst：新兴的开源类LaTeX编辑器 -&amp;gt; &lt;a href=&#34;https://github.com/typst/typst&#34;&gt;typst/typst&lt;/a&gt; &lt;a href=&#34;https://github.com/touying-typ/touying&#34;&gt;touying-typ/touying&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+                
+                
+                
+                
+                
+                    
+                        
+                    
+                        
+                    
+                
+            </item>
         
             <item>
                 <title>Shortcut</title>
