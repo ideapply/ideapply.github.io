@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">云端小站</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2024-07-25T13:10:29&#43;08:00</updated>
+    <updated>2024-07-25T13:20:42&#43;08:00</updated>
     <id>https://ideapply.github.io/</id>
     <link rel="alternate" type="text/html" href="https://ideapply.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://ideapply.github.io/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">装机必备软件推荐</title>
             <link rel="alternate" type="text/html" href="https://ideapply.github.io/posts/%E8%A3%85%E6%9C%BA%E5%BF%85%E5%A4%87%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/" />
             <id>https://ideapply.github.io/posts/%E8%A3%85%E6%9C%BA%E5%BF%85%E5%A4%87%E8%BD%AF%E4%BB%B6%E6%8E%A8%E8%8D%90/</id>
-            <updated>2024-07-25T12:59:27&#43;08:00</updated>
+            <updated>2024-07-25T13:20:34&#43;08:00</updated>
             <published>2024-07-24T23:58:52&#43;08:00</published>
             <author>
                     <name>ideapply</name>
@@ -177,7 +177,23 @@
             
                 
                     
+                        
+                            
+                            
+                            
+                                <category scheme="https://ideapply.github.io/categories/%E6%8E%A8%E8%8D%90/" term="推荐" label="推荐" />
+                            
+                        
+                    
                 
+                    
+                        
+                            
+                            
+                            
+                                <category scheme="https://ideapply.github.io/tags/%E8%BD%AF%E4%BB%B6/" term="软件" label="软件" />
+                            
+                        
                     
                 
             
