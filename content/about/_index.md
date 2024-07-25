@@ -4,7 +4,7 @@ date: 2022-07-13T20:22:29+08:00
 draft: false
 ---
 
-博狗一枚，喜好杂，不甚精，图一心乐，点缀生活～
+> 博狗一枚，喜好杂，不甚精，图一心乐，点缀生活 ～
 
 ### 软件技能
 
@@ -27,6 +27,13 @@ draft: false
 - 本科：合肥工业大学（自动化）
 - 博士：中国科学技术大学（检测技术与自动化装置）
 
-### 座右铭
+### 作品
+
+- [ideapply/RoamFirebaseBackup](https://github.com/ideapply/RoamFirebaseBackup)：Roam Research图床和附件备份工具
+- [ideapply/RoamMDExporter](https://github.com/ideapply/RoamMDExporter)：Roam Research json存档复原工具 [Markdown]
+- [ideapply/edn-file-processor](https://github.com/ideapply/edn-file-processor)：Roam Research edn存档选择性导出工具 [Markdown、HTML]
+- [RR/InsightSphere](https://roamresearch.com/#/app/InsightSphere/page/Xj7YD_MxR)：基于Roam Research的公共知识库 -> [April 8th, 2023]
+
+### 后记
 
 Laugh hard, run fast, and be kind !
