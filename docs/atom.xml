@@ -4,7 +4,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="zh-CN">
     <title type="text">云端小站</title>
     <subtitle type="html">MemE 是一个强大且可高度定制的 GoHugo 博客主题，专为个人博客设计。</subtitle>
-    <updated>2024-08-04T19:50:47&#43;08:00</updated>
+    <updated>2024-08-04T20:10:49&#43;08:00</updated>
     <id>https://ideapply.github.io/</id>
     <link rel="alternate" type="text/html" href="https://ideapply.github.io/" />
     <link rel="self" type="application/atom&#43;xml" href="https://ideapply.github.io/atom.xml" />
@@ -20,7 +20,7 @@
             <title type="text">相机</title>
             <link rel="alternate" type="text/html" href="https://ideapply.github.io/posts/%E7%9B%B8%E6%9C%BA/" />
             <id>https://ideapply.github.io/posts/%E7%9B%B8%E6%9C%BA/</id>
-            <updated>2024-08-04T19:50:12&#43;08:00</updated>
+            <updated>2024-08-04T20:10:41&#43;08:00</updated>
             <published>2024-08-04T19:47:02&#43;08:00</published>
             <author>
                     <name>ideapply</name>
@@ -51,13 +51,16 @@
 &lt;ul&gt;
 &lt;li&gt;世界上的第一张照片是由 Joseph Nicéphore Niépce 于1826年拍摄。当时，拍摄一张照片需要曝光至少8小时甚至几天。
 &lt;ul&gt;
-&lt;li&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/ideapply/pichub@master/obsidian/202408041147309.png&#34; alt=&#34;&#34;&gt;
-这块宽20厘米、高16.5厘米的锡版，是法国人尼埃普斯拍摄的人类第一张存世照片《窗外风景》，现存于哈里·兰瑟姆中心。&lt;/li&gt;
+&lt;li&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/ideapply/pichub@master/obsidian/202408041147309.png&#34; alt=&#34;这块宽20厘米、高16.5厘米的锡版，是法国人尼埃普斯拍摄的人类第一张存世照片《窗外风景》，现存于哈里·兰瑟姆中心。&#34; height=&#34;200&#34;&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;世界上的第一张数码照片则是 Russell A. Kirsch 于1957年，以计算机扫描自己三个月大儿子的胶片底片，并得到的176×176数码影像。
 &lt;ul&gt;
-&lt;li&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/ideapply/pichub@master/obsidian/202408041323297.png&#34; alt=&#34;&#34;&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/ideapply/pichub@master/obsidian/202408041323297.png&#34; alt=&#34;世界上的第一张数码照片&#34; width=&#34;300&#34;&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;本文将从基本物理和化学规律出发，我们可以深入探讨相机如何成像及其颜色区分的机制。&lt;/li&gt;
@@ -172,7 +175,9 @@
 &lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
-&lt;li&gt;&lt;img src=&#34;https://cdn.jsdelivr.net/gh/ideapply/pichub@master/obsidian/202408041341445.png&#34; alt=&#34;&#34;&gt;&lt;/li&gt;
+&lt;li&gt;
+&lt;img src=&#34;https://cdn.jsdelivr.net/gh/ideapply/pichub@master/obsidian/202408041341445.png&#34; alt=&#34;CCD和CMOS&#34; width=&#34;&#34; height=&#34;200&#34;&gt;
+&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/li&gt;
 &lt;li&gt;
